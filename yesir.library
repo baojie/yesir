@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+  <!--JBuilder Library Definition File-->
+  <fullname>yesir</fullname>
+  <class>
+    <path>[lib/activation.jar]</path>
+    <path>[lib/commons-net-1.1.0.jar]</path>
+    <path>[lib/googleapi.jar]</path>
+    <path>[lib/jdom.jar]</path>
+    <path>[lib/jive.zip]</path>
+    <path>[lib/mail.jar]</path>
+    <path>[lib/tangosol.zip]</path>
+  </class>
+  <lastmodsaved>1071296186828</lastmodsaved>
+</library>

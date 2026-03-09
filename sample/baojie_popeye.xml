@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns="http://purl.org/rss/1.0/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"   >
+ <channel rdf:about="http://boole.cs.iastate.edu:9090/popeye/Wiki.jsp?page=Programming.Java.Yesir">
+  <title>Yesir</title>
+  <link>http://boole.cs.iastate.edu:9090/popeye/Wiki.jsp?page=Programming.Java.Yesir</link>
+  <description>Yesir Information Agent RSS</description>
+  <language>en-us</language>
+  <items>
+   <rdf:Seq>
+    <rdf:li rdf:resource="baojie@cs.iastate.edu" />
+    <rdf:li rdf:resource="baojie@cs.iastate.edu" />
+   </rdf:Seq>
+  </items>
+ </channel>
+ <item rdf:about="baojie@cs.iastate.edu">
+  <title>Rates are Low Again - Refinance Before it's Too Late!</title>
+  <link>baojie@cs.iastate.edu</link>
+  <description>This is a string
+---------------------------
+&lt;BODY BGCOLOR=#FFFFFF LEFTMARGIN=0 TOPMARGIN=0 MARGINWIDTH=0 MARGINHEIGHT=0>
+&lt;TABLE WIDTH=600 BORDER=0 CELLPADDING=0 CELLSPACING=0 ALIGN="CENTER">
+&lt;TR>
+&lt;TD COLSPAN=2>
+&lt;A HREF="http://moxio.com/r/18/8463380/sp065n52sn8p">&lt;IMG 
+SRC="http://moxio.com/images/18_Untitled-1_01.gif" WIDTH=600 HEIGHT=62 ALT="" BORDER="0">&lt;/TD>
+&lt;/TR>
+&lt;TR>
+&lt;TD ROWSPAN=3>
+&lt;A HREF="http://moxio.com/r/18/8463380/sp065n52sn8p">&lt;IMG 
+SRC="http://moxio.com/images/18_Untitled-1_02.gif" WIDTH=262 HEIGHT=338 ALT="" BORDER="0">&lt;/TD>
+&lt;TD>
+&lt;A HREF="http://moxio.com/r/18/8463380/sp065n52sn8p">&lt;IMG 
+SRC="http://moxio.com/images/18_Untitled-1_03.gif" WIDTH=338 HEIGHT=60 ALT="" BORDER="0">&lt;/TD>
+&lt;/TR>
+&lt;TR>
+&lt;TD>
+&lt;A HREF="http://moxio.com/r/18/8463380/sp065n52sn8p">&lt;IMG 
+SRC="http://moxio.com/images/18_Untitled-1_04.gif" WIDTH=338 HEIGHT=183 ALT="" BORDER="0">&lt;/TD>
+&lt;/TR>
+&lt;TR>
+&lt;TD>
+&lt;A HREF="http://moxio.com/r/18/8463380/sp065n52sn8p">&lt;IMG 
+SRC="http://moxio.com/images/18_Untitled-1_05.gif" WIDTH=338 HEIGHT=95 ALT="" BORDER="0">&lt;/TD>
+&lt;/TR>
+&lt;/TABLE>
+&lt;/BODY>
+&lt;center>
+&lt;font size="1">Click to the Moxio &lt;a 
+href="http://moxio.com/u/18/8463380/sp065n52sn8p">Mailings
+Manager&lt;/a>&lt;/font>
+&lt;/center>
+&lt;br></description>
+  <dc:date>Fri Dec 12 22:26:31 CST 2003</dc:date>
+  <dc:contributor>
+   <rdf:Description>
+    <rdf:value>Best Rates[minfo@moxio.com]</rdf:value>
+   </rdf:Description>
+  </dc:contributor>
+ </item>
+ <item rdf:about="baojie@cs.iastate.edu">
+  <title>cialis available now</title>
+  <link>baojie@cs.iastate.edu</link>
+  <description>This is a string
+---------------------------
+&lt;DIV align=center>&lt;FONT face="arial black"size=2>Savings of over 50% on&lt;/FONT>&lt;/DIV>
+&lt;CENTER>&lt;FONT face="arial black" size=2>New official drugs approved by FDA&lt;/B>&lt;/FONT>&lt;BR>&lt;/CENTER>
+&lt;center>&lt;a href="http://gkxntwvjt.646fgfg5.com/v95/index.php?id=v95">Buy them here&lt;/a></description>
+  <dc:date>Fri Dec 12 23:41:47 CST 2003</dc:date>
+  <dc:contributor>
+   <rdf:Description>
+    <rdf:value>Milo Dolan[osvaldofasg78sf@aol.com]</rdf:value>
+   </rdf:Description>
+  </dc:contributor>
+ </item>
+</rdf:RDF>

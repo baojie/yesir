@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns="http://purl.org/rss/1.0/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"   >
+ <channel rdf:about="http://boole.cs.iastate.edu:9090/popeye/Wiki.jsp?page=Programming.Java.Yesir">
+  <title>Yesir</title>
+  <link>http://boole.cs.iastate.edu:9090/popeye/Wiki.jsp?page=Programming.Java.Yesir</link>
+  <description>Yesir Information Agent RSS</description>
+  <language>en-us</language>
+  <items>
+   <rdf:Seq>
+    <rdf:li rdf:resource="http://www.cs.iastate.edu/~baojie/" />
+    <rdf:li rdf:resource="http://www.cs.iastate.edu/~baojie/history/other/2002-02-22_greek.htm" />
+    <rdf:li rdf:resource="http://www.public.iastate.edu/~baojie/homepage.html" />
+    <rdf:li rdf:resource="http://www.made-in-china.com/prod/show/?for=com&amp;com_id=Tc0MjAwM" />
+    <rdf:li rdf:resource="http://www.made-in-china.com/showroom/Tc0MjAwM&amp;encode=yes" />
+    <rdf:li rdf:resource="http://authors.aip.org/Baojie_Yan.html" />
+    <rdf:li rdf:resource="http://www.imcb.a-star.edu.sg/research/research_group/development_biology/6000000102_article.html" />
+    <rdf:li rdf:resource="http://www.zhxcj.com/english/comsubcom/baojie.htm" />
+    <rdf:li rdf:resource="http://oaw.myetang.com/" />
+    <rdf:li rdf:resource="http://zh.wikipedia.org/wiki/User:Baojie" />
+   </rdf:Seq>
+  </items>
+ </channel>
+ <item rdf:about="http://www.cs.iastate.edu/~baojie/">
+  <title>Jie Bao&#39;s homepage</title>
+  <link>http://www.cs.iastate.edu/~baojie/</link>
+  <description>&lt;b>...&lt;/b> xigua/; Blog: http://www.cs.iastate.edu/~&lt;b>baojie&lt;/b>/weblog/blogger.html;&lt;br> Java Blog: http://www.cs.iastate.edu/~&lt;b>baojie&lt;/b>/java/log/javalog.html; &lt;b>...&lt;/b></description>
+  <dc:date>Tue Dec 16 14:27:39 CST 2003</dc:date>
+  <dc:contributor>
+   <rdf:Description>
+    <rdf:value>www.google.com</rdf:value>
+   </rdf:Description>
+  </dc:contributor>
+ </item>
+ <item rdf:about="http://www.cs.iastate.edu/~baojie/history/other/2002-02-22_greek.htm">
+  <title>???: <b>baojie</b> (??????), ??: History</title>
+  <link>http://www.cs.iastate.edu/~baojie/history/other/2002-02-22_greek.htm</link>
+  <description>发信人: &lt;b>baojie&lt;/b> (西瓜大丸子汤), 信区: History 标题: Re: 印欧之&lt;br> 马与周武革命 发信站: The unknown SPACE (Sat Feb 23 01:16:57 2002) WWW &lt;b>...&lt;/b></description>
+  <dc:date>Tue Dec 16 14:27:39 CST 2003</dc:date>
+  <dc:contributor>
+   <rdf:Description>
+    <rdf:value>www.google.com</rdf:value>
+   </rdf:Description>
+  </dc:contributor>
+ </item>
+ <item rdf:about="http://www.public.iastate.edu/~baojie/homepage.html">
+  <title><b>baojie</b></title>
+  <link>http://www.public.iastate.edu/~baojie/homepage.html</link>
+  <description>&lt;b>...&lt;/b> Wanzi Tang. My e-mail address is &lt;b>baojie&lt;/b>@cs.iastate.edu My campus&lt;br> address is 115H Univ Vlg, Ames, IA My home phone is 572-4866. My &lt;b>...&lt;/b></description>
+  <dc:date>Tue Dec 16 14:27:39 CST 2003</dc:date>
+  <dc:contributor>
+   <rdf:Description>
+    <rdf:value>www.google.com</rdf:value>
+   </rdf:Description>
+  </dc:contributor>
+ </item>
+ <item rdf:about="http://www.made-in-china.com/prod/show/?for=com&amp;com_id=Tc0MjAwM">
+  <title><b>Baojie</b> Plastic Indusry (Yuyao) Co.,Ltd. (Yuyao Dongxiang Sprayer <b>...</b> </title>
+  <link>http://www.made-in-china.com/prod/show/?for=com&amp;com_id=Tc0MjAwM</link>
+  <description>&lt;b>...&lt;/b> &lt;b>Baojie&lt;/b> Plastic Indusry (Yuyao) Co.,Ltd. (Yuyao Dongxiang Sprayer Factory). Registered&lt;br> Since :May 21,2003. Last Login :Dec 10,2003. &lt;b>Baojie&lt;/b> Plastic (Yuyao) Co.,Ltd. &lt;b>...&lt;/b></description>
+  <dc:date>Tue Dec 16 14:27:39 CST 2003</dc:date>
+  <dc:contributor>
+   <rdf:Description>
+    <rdf:value>www.google.com</rdf:value>
+   </rdf:Description>
+  </dc:contributor>
+ </item>
+ <item rdf:about="http://www.made-in-china.com/showroom/Tc0MjAwM&amp;encode=yes">
+  <title><b>Baojie</b> Plastic Indusry (Yuyao) Co.,Ltd. (Yuyao Dongxiang Sprayer <b>...</b> </title>
+  <link>http://www.made-in-china.com/showroom/Tc0MjAwM&amp;encode=yes</link>
+  <description>&lt;b>Baojie&lt;/b> Plastic (Yuyao) Co.,Ltd. (Yuyao Dongxiang Sprayer Factory) is engaged&lt;br> in the manufacture of sparyer. &lt;b>...&lt;/b> &lt;b>Baojie&lt;/b> Plastic Indusry (Yuyao) Co.,Ltd. &lt;b>...&lt;/b></description>
+  <dc:date>Tue Dec 16 14:27:39 CST 2003</dc:date>
+  <dc:contributor>
+   <rdf:Description>
+    <rdf:value>www.google.com</rdf:value>
+   </rdf:Description>
+  </dc:contributor>
+ </item>
+ <item rdf:about="http://authors.aip.org/Baojie_Yan.html">
+  <title>Yan, <b>Baojie</b> [AIP Articles]</title>
+  <link>http://authors.aip.org/Baojie_Yan.html</link>
+  <description>&lt;b>...&lt;/b> &lt;b>Baojie&lt;/b> Yan, Jeffrey Yang, and Subhendu Guha, Appl. Phys. Lett. &lt;b>...&lt;/b> &lt;b>Baojie&lt;/b> Yan, Daxing&lt;br> Han, and Guy J. Adriaenssens, J. Appl. Phys. 79(7) 3597 (01 Apr 1996). &lt;b>...&lt;/b></description>
+  <dc:date>Tue Dec 16 14:27:39 CST 2003</dc:date>
+  <dc:contributor>
+   <rdf:Description>
+    <rdf:value>www.google.com</rdf:value>
+   </rdf:Description>
+  </dc:contributor>
+ </item>
+ <item rdf:about="http://www.imcb.a-star.edu.sg/research/research_group/development_biology/6000000102_article.html">
+  <title><b>Baojie</b> Li</title>
+  <link>http://www.imcb.a-star.edu.sg/research/research_group/development_biology/6000000102_article.html</link>
+  <description>&lt;b>Baojie&lt;/b> Li &lt;b>Baojie&lt;/b> Li received his BSc in Biology from Beijing Normal University&lt;br> in 1988 and his PhD from Albert Einstein College of Medicine of Yeshiva &lt;b>...&lt;/b></description>
+  <dc:date>Tue Dec 16 14:27:39 CST 2003</dc:date>
+  <dc:contributor>
+   <rdf:Description>
+    <rdf:value>www.google.com</rdf:value>
+   </rdf:Description>
+  </dc:contributor>
+ </item>
+ <item rdf:about="http://www.zhxcj.com/english/comsubcom/baojie.htm">
+  <title><b>BaoJie</b> Investment</title>
+  <link>http://www.zhxcj.com/english/comsubcom/baojie.htm</link>
+  <description>Shanghai &lt;b>Baojie&lt;/b> Investment Limited Company. Shanghai &lt;b>Baojie&lt;/b> Investment&lt;br> Limited Company was founded in. November, 2000. It was joint &lt;b>...&lt;/b></description>
+  <dc:date>Tue Dec 16 14:27:39 CST 2003</dc:date>
+  <dc:contributor>
+   <rdf:Description>
+    <rdf:value>www.google.com</rdf:value>
+   </rdf:Description>
+  </dc:contributor>
+ </item>
+ <item rdf:about="http://oaw.myetang.com/">
+  <title>                  </title>
+  <link>http://oaw.myetang.com/</link>
+  <description>.          .English).             .English).&lt;br>       .       .. &lt;b>...&lt;/b></description>
+  <dc:date>Tue Dec 16 14:27:39 CST 2003</dc:date>
+  <dc:contributor>
+   <rdf:Description>
+    <rdf:value>www.google.com</rdf:value>
+   </rdf:Description>
+  </dc:contributor>
+ </item>
+ <item rdf:about="http://zh.wikipedia.org/wiki/User:Baojie">
+  <title>User:<b>Baojie</b> - 维基百科</title>
+  <link>http://zh.wikipedia.org/wiki/User:Baojie</link>
+  <description>没有登录登录 | 帮助. User:&lt;b>Baojie&lt;/b>. 维基百科，自由的百科全书。. &lt;b>...&lt;/b> &lt;br> 我的业余爱好是历史, 集邮. 我的电子邮件是&lt;b>baojie&lt;/b>@iastate.edu. &lt;b>...&lt;/b></description>
+  <dc:date>Tue Dec 16 14:27:39 CST 2003</dc:date>
+  <dc:contributor>
+   <rdf:Description>
+    <rdf:value>www.google.com</rdf:value>
+   </rdf:Description>
+  </dc:contributor>
+ </item>
+</rdf:RDF>
