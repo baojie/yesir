@@ -1,0 +1,10 @@
+[PropertyInfo]
+bbsPanel,ExportPanel,false,false, , ,false,<default>
+mailPanel,ImportPanel,false,false, , ,false,<default>
+mainFrame,JFrame,false,false, , ,false,<default>
+mytimer,Timer,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

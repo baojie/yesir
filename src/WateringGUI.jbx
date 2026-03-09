@@ -1,0 +1,18 @@
+[PropertyInfo]
+buttonPane,JPanel,false,false, , ,false,<default>
+Column,String[],false,false, , ,false,<default>
+ColumnType,String[],false,false, , ,false,<default>
+jBtnExit,JButton,false,false, , ,false,<default>
+jBtnGetInput,JButton,false,false, , ,false,<default>
+jInputCgiUrl,JTextField,false,false, , ,false,<default>
+jInputContent,JTextArea,false,false, , ,false,<default>
+jInputPassword,JTextField,false,false, , ,false,<default>
+jInputSubject,JTextField,false,false, , ,false,<default>
+jInputTable,JTable,false,false, , ,false,<default>
+jInputTableModel,MyTableModel,false,false, , ,false,<default>
+jInputUserName,JTextField,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

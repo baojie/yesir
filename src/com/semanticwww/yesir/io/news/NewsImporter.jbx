@@ -1,0 +1,10 @@
+[PropertyInfo]
+backNumber,int,false,false, , ,false,<default>
+client,NNTPClient,false,false, , ,false,<default>
+groupName,String,false,false, , ,false,<default>
+nntpServer,String,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

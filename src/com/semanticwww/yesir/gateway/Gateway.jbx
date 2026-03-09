@@ -1,0 +1,22 @@
+[PropertyInfo]
+AUTO,short,false,false, , ,false,<default>
+executedTime,int,false,false, , ,false,<default>
+exporter,GatewayExporter,false,false, , ,false,<default>
+FOREVER,short,false,false, , ,false,<default>
+gatewayExporter,GatewayExporter,false,false, , ,true,<default>
+gatewayImporter,GatewayImporter,false,false, , ,true,<default>
+importer,GatewayImporter,false,false, , ,false,<default>
+MANUAL,short,false,false, , ,false,<default>
+meme,Meme[],false,false, , ,false,<default>
+memeCount,int,false,false, , ,true,<default>
+mode,short,false,false, , ,false,<default>
+mytimer,Timer,false,false, , ,false,<default>
+name,String,false,false, , ,false,<default>
+ONCE,short,false,false, , ,false,<default>
+repeatTime,int,false,false, , ,false,<default>
+timerFreq,int,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

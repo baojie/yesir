@@ -1,0 +1,16 @@
+[PropertyInfo]
+context,String,false,false, , ,false,<default>
+exportEnabled,boolean,false,false, , ,true,<default>
+exportFooter,String,false,false, , ,true,<default>
+gatewayCount,int,false,false, , ,true,<default>
+gateways,Gateway[],false,false, , ,false,<default>
+importEnabled,boolean,false,false, , ,true,<default>
+importInterval,int,false,false, , ,true,<default>
+lastImport,long,false,false, , ,false,<default>
+properties,XMLProperties,false,false, , ,false,<default>
+timerTask,TimerTask,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

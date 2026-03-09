@@ -1,0 +1,26 @@
+[PropertyInfo]
+attachment,Attachment[],false,false, , ,true,<default>
+author,String[],false,false, , ,false,<default>
+author,String,false,false, , ,true,<default>
+bcc,String[],false,false, , ,true,<default>
+category,String,false,false, , ,false,<default>
+cc,String[],false,false, , ,true,<default>
+concise,boolean,false,false, , ,false,<default>
+content,String,false,false, , ,true,<default>
+creator,String,false,false, , ,false,<default>
+date,Date,false,false, , ,true,<default>
+guid,String,false,false, , ,false,<default>
+permaLink,boolean,false,false, , ,false,<default>
+pubDate,String,false,false, , ,false,<default>
+publisher,String,false,false, , ,false,<default>
+source,String,false,false, , ,false,<default>
+subject,String,false,false, , ,true,<default>
+summary,String,false,false, , ,true,<default>
+title,String,false,false, , ,false,<default>
+to,String[],false,false, , ,true,<default>
+URL,String,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

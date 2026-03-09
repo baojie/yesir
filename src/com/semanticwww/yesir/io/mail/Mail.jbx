@@ -1,0 +1,14 @@
+[PropertyInfo]
+attachment,Attachment[],false,false, , ,false,<default>
+bcc,String[],false,false, , ,false,<default>
+cc,String[],false,false, , ,false,<default>
+content,String,false,false, , ,false,<default>
+date,Date,false,false, , ,false,<default>
+from,String[],false,false, , ,false,<default>
+subject,String,false,false, , ,false,<default>
+to,String[],false,false, , ,false,<default>
+[IconNames]
+
+
+
+
