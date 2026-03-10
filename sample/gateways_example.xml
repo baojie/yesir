@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Yesir! Information Agent - Gateway Configuration Example
+
+    Each gateway pairs one Importer (data source) with one Exporter (data target).
+    The GatewayManager loads this file on startup and creates Gateway instances
+    using BeanUtils reflection to set JavaBean properties automatically.
+
+    Available Importers:
+      - com.semanticwww.yesir.io.rss.RSSImporter       (rssUrl)
+      - com.semanticwww.yesir.io.mail.Pop3Importer      (host, popUser, popPassword, protocol)
+      - com.semanticwww.yesir.io.news.NewsImporter       (nntpServer, groupName, backNumber)
+      - com.semanticwww.yesir.io.search.GoogleImporter   (clientKey, keyWord)
+      - com.semanticwww.yesir.io.mail.MailFileImporter   (path)
+
+    Available Exporters:
+      - com.semanticwww.yesir.io.rss.RSSExporter         (rssFilePath)
+      - com.semanticwww.yesir.io.console.ConsoleExporter  (dummy: true=stdout only)
+      - com.semanticwww.yesir.io.mail.SmtpExporter        (smtpServer, sender, reciever)
+      - com.semanticwww.yesir.io.bbs.LB5000Exporter       (cgiURL, boardNo, user, password)
+      - com.semanticwww.yesir.io.blank.BlankExporter       (no-op)
+-->
+<Gateways>
+    <gatewayClasses />
+    <forum>
+        <importEnabled>true</importEnabled>
+        <exportEnabled>true</exportEnabled>
+        <importInterval>15</importInterval>
+        <exportFooter>Yesir! Information Agent</exportFooter>
+        <gatewayCount>3</gatewayCount>
+        <lastImport>0</lastImport>
+
+        <!-- Gateway 0: RSS → RSS file
+             Import Hacker News front page, export as local RDF file -->
+        <gateway0>
+            <className>com.semanticwww.yesir.gateway.Gateway</className>
+            <gatewayImporter>
+                <properties>
+                    <name>Hacker News</name>
+                    <rssUrl>https://hnrss.org/frontpage</rssUrl>
+                </properties>
+            </gatewayImporter>
+            <gatewayExporter>
+                <properties>
+                    <name>HN to RSS</name>
+                    <rssFilePath>output/hackernews.rdf</rssFilePath>
+                </properties>
+            </gatewayExporter>
+        </gateway0>
+
+        <!-- Gateway 1: RSS → Console
+             Import BBC World News, print to stdout -->
+        <gateway1>
+            <className>com.semanticwww.yesir.gateway.Gateway</className>
+            <gatewayImporter>
+                <properties>
+                    <name>BBC World News</name>
+                    <rssUrl>https://feeds.bbci.co.uk/news/world/rss.xml</rssUrl>
+                </properties>
+            </gatewayImporter>
+            <gatewayExporter>
+                <properties>
+                    <name>BBC to Console</name>
+                    <dummy>true</dummy>
+                </properties>
+            </gatewayExporter>
+        </gateway1>
+
+        <!-- Gateway 2: RSS → RSS file
+             Import Nature journal articles, export as local RDF file -->
+        <gateway2>
+            <className>com.semanticwww.yesir.gateway.Gateway</className>
+            <gatewayImporter>
+                <properties>
+                    <name>Nature Science</name>
+                    <rssUrl>https://www.nature.com/nature.rss</rssUrl>
+                </properties>
+            </gatewayImporter>
+            <gatewayExporter>
+                <properties>
+                    <name>Nature to RSS</name>
+                    <rssFilePath>output/nature.rdf</rssFilePath>
+                </properties>
+            </gatewayExporter>
+        </gateway2>
+    </forum>
+</Gateways>

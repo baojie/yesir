@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Gateways>
+    <gatewayClasses />
+    <forum>
+        <importEnabled>true</importEnabled>
+        <exportEnabled>true</exportEnabled>
+        <importInterval>15</importInterval>
+        <exportFooter>Yesir! Information Agent</exportFooter>
+        <gatewayCount>6</gatewayCount>
+        <lastImport>0</lastImport>
+        <gateway0>
+            <className>com.semanticwww.yesir.gateway.Gateway</className>
+            <gatewayImporter>
+                <properties>
+                    <name>Hacker News</name>
+                    <rssUrl>https://hnrss.org/frontpage</rssUrl>
+                </properties>
+            </gatewayImporter>
+            <gatewayExporter>
+                <properties>
+                    <name>HN to RSS</name>
+                    <rssFilePath>output/hackernews.rdf</rssFilePath>
+                </properties>
+            </gatewayExporter>
+        </gateway0>
+        <gateway1>
+            <className>com.semanticwww.yesir.gateway.Gateway</className>
+            <gatewayImporter>
+                <properties>
+                    <name>Ars Technica</name>
+                    <rssUrl>https://feeds.arstechnica.com/arstechnica/index</rssUrl>
+                </properties>
+            </gatewayImporter>
+            <gatewayExporter>
+                <properties>
+                    <name>Ars to Console</name>
+                    <dummy>true</dummy>
+                </properties>
+            </gatewayExporter>
+        </gateway1>
+        <gateway2>
+            <className>com.semanticwww.yesir.gateway.Gateway</className>
+            <gatewayImporter>
+                <properties>
+                    <name>BBC World News</name>
+                    <rssUrl>https://feeds.bbci.co.uk/news/world/rss.xml</rssUrl>
+                </properties>
+            </gatewayImporter>
+            <gatewayExporter>
+                <properties>
+                    <name>BBC to RSS</name>
+                    <rssFilePath>output/bbc_world.rdf</rssFilePath>
+                </properties>
+            </gatewayExporter>
+        </gateway2>
+        <gateway3>
+            <className>com.semanticwww.yesir.gateway.Gateway</className>
+            <gatewayImporter>
+                <properties>
+                    <name>Nature Science</name>
+                    <rssUrl>https://www.nature.com/nature.rss</rssUrl>
+                </properties>
+            </gatewayImporter>
+            <gatewayExporter>
+                <properties>
+                    <name>Nature to RSS</name>
+                    <rssFilePath>output/nature.rdf</rssFilePath>
+                </properties>
+            </gatewayExporter>
+        </gateway3>
+        <gateway4>
+            <className>com.semanticwww.yesir.gateway.Gateway</className>
+            <gatewayImporter>
+                <properties>
+                    <name>DEV Community</name>
+                    <rssUrl>https://dev.to/feed</rssUrl>
+                </properties>
+            </gatewayImporter>
+            <gatewayExporter>
+                <properties>
+                    <name>DEV to Console</name>
+                    <dummy>true</dummy>
+                </properties>
+            </gatewayExporter>
+        </gateway4>
+        <gateway5>
+            <className>com.semanticwww.yesir.gateway.Gateway</className>
+            <gatewayImporter>
+                <properties>
+                    <name>Reuters Top News</name>
+                    <rssUrl>https://feeds.reuters.com/reuters/topNews</rssUrl>
+                </properties>
+            </gatewayImporter>
+            <gatewayExporter>
+                <properties>
+                    <name>Reuters to RSS</name>
+                    <rssFilePath>output/reuters.rdf</rssFilePath>
+                </properties>
+            </gatewayExporter>
+        </gateway5>
+    </forum>
+</Gateways>

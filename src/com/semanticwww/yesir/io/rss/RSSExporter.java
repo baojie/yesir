@@ -31,6 +31,16 @@ public class RSSExporter
 {
     String rssFilePath ;
 
+    public String getRssFilePath()
+    {
+        return rssFilePath ;
+    }
+
+    public void setRssFilePath( String rssFilePath )
+    {
+        this.rssFilePath = rssFilePath ;
+    }
+
     public void jbInit( String name , String rssFilePath )
     {
         setName( name ) ;

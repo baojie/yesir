@@ -20,6 +20,17 @@ public class ConsoleExporter
     extends DefaultGatewayExporter
 {
     public boolean dummy = true ;
+
+    public boolean isDummy()
+    {
+        return dummy ;
+    }
+
+    public void setDummy( boolean dummy )
+    {
+        this.dummy = dummy ;
+    }
+
     public void jbInit( String name )
     {
         setName( name ) ;

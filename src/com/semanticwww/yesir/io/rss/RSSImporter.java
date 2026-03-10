@@ -28,6 +28,17 @@ public class RSSImporter
     extends DefaultGatewayImporter
 {
     String rssUrl ;
+
+    public String getRssUrl()
+    {
+        return rssUrl ;
+    }
+
+    public void setRssUrl( String rssUrl )
+    {
+        this.rssUrl = rssUrl ;
+    }
+
     public void jbInit( String name , String rssUrl )
     {
         setName( name ) ;
